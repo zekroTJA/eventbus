@@ -2,7 +2,7 @@
     <h1>~ eventbus ~</h1>
     <strong>A go package to send and receive pub-sub messages using channels.</strong><br><br>
     <a href="https://pkg.go.dev/github.com/zekrotja/eventbus"><img src="https://godoc.org/github.com/zekrotja/eventbus?status.svg" /></a>&nbsp;
-    <a href="https://github.com/zekrotja/timedmap/actions/workflows/tests.yml" ><img src="https://github.com/zekroTJA/timedmap/actions/workflows/tests.yml/badge.svg" /></a>&nbsp;
+    <a href="https://github.com/zekrotja/eventbus/actions/workflows/tests.yml" ><img src="https://github.com/zekroTJA/eventbus/actions/workflows/tests.yml/badge.svg" /></a>&nbsp;
     <a href="https://coveralls.io/github/zekrotja/eventbus"><img src="https://coveralls.io/repos/github/zekrotja/eventbus/badge.svg" /></a>&nbsp;
     <a href="https://goreportcard.com/report/github.com/zekrotja/eventbus"><img src="https://goreportcard.com/badge/github.com/zekrotja/eventbus"/></a>
 <br>
